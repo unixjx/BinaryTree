@@ -1,0 +1,3 @@
+/home/xjx/studySpace/Ctest/BinaryTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xjx/studySpace/Ctest/BinaryTree/cmake-build-debug/CMakeFiles/BinaryTree.dir
+/home/xjx/studySpace/Ctest/BinaryTree/cmake-build-debug/CMakeFiles/edit_cache.dir
